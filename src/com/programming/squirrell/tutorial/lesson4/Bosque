@@ -1,5 +1,11 @@
+package com.programming.squirrell.tutorial.lesson4;
 
+//The Bosque File with a main methosd
 
+/**
+ * Class Bosque
+ * This class is the most simple class with a main method
+ */
 public class Bosque {
 
   public static void main(String args()){
